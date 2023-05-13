@@ -59,7 +59,7 @@ mysqli_query($conn, $query);
         </div>
         
          <div class="col-md-6">
-            <label for="phone" class="form-label">Telepon</label>
+            <label for="image" class="form-label">Image</label>
             <input type="file" class="form-control" id="inputImage" name="image" placeholder="" id="File">
         </div>
         <div class="col-12">
